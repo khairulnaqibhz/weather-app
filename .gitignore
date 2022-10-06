@@ -1,0 +1,4 @@
+.angular/cache/
+
+#dependencies
+/node_modules
